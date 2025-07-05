@@ -2,4 +2,19 @@
     color: #025702ec;
     font-size: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.dolar {
+    color: #8a2be2;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: justify;
+}
+
+.elit {
+    color: #660404cf;
+    font-size: 15px;
+    font-family: monospace;
+    text-align: justify;
 }
